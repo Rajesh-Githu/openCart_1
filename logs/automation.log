@@ -427,3 +427,25 @@
 20:20:26.622 [main] INFO  testCases.TC_002_LoginTest - providing Login details
 20:20:27.061 [main] INFO  testCases.TC_002_LoginTest - clicked on loging button
 20:20:27.626 [main] INFO  testCases.TC_002_LoginTest - ******Finished TC_002_LoginTest****
+20:03:54.194 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest*****
+20:03:54.596 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked my account
+20:03:55.323 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked my Registration
+20:03:55.330 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+20:04:05.363 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+20:04:08.309 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest**** 
+20:04:08.515 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+20:04:09.068 [main] INFO  testCases.TC_002_LoginTest - Clicked on login Link
+20:04:09.071 [main] INFO  testCases.TC_002_LoginTest - providing Login details
+20:04:09.497 [main] INFO  testCases.TC_002_LoginTest - clicked on loging button
+20:04:10.380 [main] INFO  testCases.TC_002_LoginTest - ******Finished TC_002_LoginTest****
+20:05:22.461 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest*****
+20:05:22.686 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked my account
+20:05:23.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked my Registration
+20:05:23.259 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+20:05:33.293 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+20:05:36.295 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest**** 
+20:05:36.492 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+20:05:37.088 [main] INFO  testCases.TC_002_LoginTest - Clicked on login Link
+20:05:37.088 [main] INFO  testCases.TC_002_LoginTest - providing Login details
+20:05:37.493 [main] INFO  testCases.TC_002_LoginTest - clicked on loging button
+20:05:38.114 [main] INFO  testCases.TC_002_LoginTest - ******Finished TC_002_LoginTest****
